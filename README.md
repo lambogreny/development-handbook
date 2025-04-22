@@ -1,5 +1,6 @@
-<p align="center">
-  <img src="assets/images/thunder-solution-logo.png" alt="Thunder Solution Logo" width="200"/>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 40px;">
+  <img src="assets/images/thunder-solution-logo.png" alt="Thunder Solution Logo" width="180"/>
+  <img src="assets/images/Design-V3-02-768x203.png" alt="Design V3 Logo" width="280" style="margin-top: -15px;"/>
 </p>
 
 # 📘 คู่มือการพัฒนาซอฟต์แวร์และการบริหารทีม
