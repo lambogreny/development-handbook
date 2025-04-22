@@ -1,0 +1,24 @@
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Editor directories and files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Node modules if you use any tooling
+node_modules/
+
+# Build output if you use any static site generator
+_site/
+.jekyll-cache/
+.jekyll-metadata
+build/
+dist/ 
