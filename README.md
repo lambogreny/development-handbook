@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LOGO-Thunder-Solution-077-1024x1024.png" alt="Thunder Solution Logo" width="200"/>
+  <img src="assets/images/thunder-solution-logo.png" alt="Thunder Solution Logo" width="200"/>
 </p>
 
 # 📘 คู่มือการพัฒนาซอฟต์แวร์และการบริหารทีม
